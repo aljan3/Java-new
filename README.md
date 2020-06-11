@@ -1,1 +1,1 @@
-# Java-new
+# java_mini_project
